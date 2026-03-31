@@ -1,16 +1,18 @@
 // ✅ design.md appliqué
 import Link from "next/link";
+import Image from "next/image";
 
 export default function HeroSection() {
   return (
     <section className="relative h-screen w-full overflow-hidden">
       {/* Background image */}
-      <div
-        className="absolute inset-0 bg-cover bg-center"
-        style={{
-          backgroundImage:
-            "url('https://images.unsplash.com/photo-1502680390548-bdbac40e4a9f?w=1920&q=80')",
-        }}
+      <Image
+        src="https://images.unsplash.com/photo-1502680390548-bdbac40e4a9f?w=1920&q=80"
+        alt="Femme sur la plage au coucher du soleil"
+        fill
+        className="object-cover"
+        priority
+        sizes="100vw"
       />
       {/* Gradient overlay */}
       <div className="absolute inset-0 bg-gradient-to-t from-[#1e1b15]/40 via-[#1e1b15]/20 to-transparent" />

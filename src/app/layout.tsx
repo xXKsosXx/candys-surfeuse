@@ -25,7 +25,7 @@ const workSans = Work_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Candys Surfeuse — Vêtements de sport aquatique",
+  title: "Candys — Vêtements de sport aquatique",
   description:
     "Maillots de bain, combinaisons et habits d'été pour les femmes qui vivent l'océan. Par Candy Oliveira.",
 };

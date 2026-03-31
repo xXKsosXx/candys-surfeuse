@@ -14,7 +14,7 @@ const FOOTER_LINKS = {
     { href: "/cgv", label: "CGV" },
   ],
   contact: [
-    { href: "mailto:contact@candys-surfeuse.com", label: "contact@candys-surfeuse.com" },
+    { href: "mailto:contact@candys.com", label: "contact@candys.com" },
     { href: "#", label: "Instagram" },
   ],
 };
@@ -27,7 +27,7 @@ export default function Footer() {
           {/* Brand */}
           <div>
             <p className="font-headline text-lg font-bold uppercase tracking-tight text-white mb-3">
-              Candys Surfeuse
+              Candys
             </p>
             <p className="font-body text-sm leading-relaxed text-white/60">
               Vêtements de sport aquatique pour les femmes qui vivent l&apos;océan.
@@ -95,7 +95,7 @@ export default function Footer() {
 
         <div className="mt-12 pt-8 border-t border-white/10 text-center">
           <p className="font-body text-xs text-white/40">
-            &copy; {new Date().getFullYear()} Candys Surfeuse. Tous droits réservés.
+            &copy; {new Date().getFullYear()} Candys. Tous droits réservés.
           </p>
         </div>
       </div>

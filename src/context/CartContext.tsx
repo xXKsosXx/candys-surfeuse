@@ -22,7 +22,7 @@ interface CartContextType {
 
 const CartContext = createContext<CartContextType | undefined>(undefined);
 
-const CART_KEY = "candys-surfeuse-cart";
+const CART_KEY = "candys-cart";
 
 function loadCart(): CartItem[] {
   if (typeof window === "undefined") return [];

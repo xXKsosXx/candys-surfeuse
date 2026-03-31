@@ -24,7 +24,7 @@ export default function Navbar() {
             href="/"
             className="font-headline text-lg font-bold uppercase tracking-tight text-primary"
           >
-            Candys Surfeuse
+            Candys
           </Link>
 
           {/* Desktop nav */}

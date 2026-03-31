@@ -13,7 +13,7 @@ export default function CGVPage() {
             </h2>
             <p>
               Les présentes conditions générales de vente régissent les ventes de
-              produits effectuées sur le site candys-surfeuse.com par Candys Surfeuse.
+              produits effectuées sur le site candys.com par Candys.
             </p>
           </section>
 
@@ -23,7 +23,7 @@ export default function CGVPage() {
             </h2>
             <p>
               Les prix sont indiqués en euros toutes taxes comprises (TTC).
-              Candys Surfeuse se réserve le droit de modifier ses prix à tout moment.
+              Candys se réserve le droit de modifier ses prix à tout moment.
               Les produits sont facturés au prix en vigueur au moment de la validation
               de la commande.
             </p>
@@ -76,7 +76,7 @@ export default function CGVPage() {
             </h2>
             <p>
               Pour toute question relative aux CGV, contactez-nous à
-              contact@candys-surfeuse.com.
+              contact@candys.com.
             </p>
           </section>
         </div>

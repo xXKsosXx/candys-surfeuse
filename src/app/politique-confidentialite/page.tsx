@@ -59,7 +59,7 @@ export default function PolitiqueConfidentialitePage() {
             <p>
               Conformément au RGPD, vous disposez d&apos;un droit d&apos;accès, de rectification,
               de suppression et de portabilité de vos données. Pour exercer ces droits,
-              contactez-nous à contact@candys-surfeuse.com.
+              contactez-nous à contact@candys.com.
             </p>
           </section>
         </div>

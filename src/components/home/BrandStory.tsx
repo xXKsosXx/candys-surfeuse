@@ -11,7 +11,7 @@ export default function BrandStory() {
           <div className="relative aspect-[4/5] overflow-hidden rounded-xl">
             <Image
               src="https://images.unsplash.com/photo-1506953823976-52e1fdc0149a?w=800&h=1000&fit=crop&q=80"
-              alt="Candy Oliveira — Fondatrice de Candys Surfeuse"
+              alt="Candy Oliveira — Fondatrice de Candys"
               fill
               className="object-cover"
               sizes="(max-width: 768px) 100vw, 50vw"
@@ -27,7 +27,7 @@ export default function BrandStory() {
               Née de<br />l&apos;océan
             </h2>
             <p className="mt-6 font-body text-base leading-relaxed text-on-surface-variant">
-              Candys Surfeuse est née d&apos;une passion pour les vagues et le soleil.
+              Candys est née d&apos;une passion pour les vagues et le soleil.
               Candy Oliveira, surfeuse passionnée depuis l&apos;enfance, a voulu créer
               des vêtements qui allient performance, confort et élégance pour les
               femmes qui vivent au rythme de l&apos;océan. Chaque pièce est conçue

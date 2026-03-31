@@ -32,9 +32,9 @@ export async function POST(req: Request) {
     if (customerEmail) {
       const resend = getResend();
       await resend.emails.send({
-        from: "Candys Surfeuse <noreply@sparkana.fr>",
+        from: "Candys <noreply@sparkana.fr>",
         to: customerEmail,
-        subject: "Confirmation de commande — Candys Surfeuse",
+        subject: "Confirmation de commande — Candys",
         html: `
           <div style="font-family: Inter, sans-serif; max-width: 600px; margin: 0 auto; background: #fff8f0; padding: 40px 30px;">
             <h1 style="font-family: Epilogue, sans-serif; color: #00526d; font-size: 24px; text-transform: uppercase; letter-spacing: -0.02em;">
@@ -50,7 +50,7 @@ export async function POST(req: Request) {
               </p>
             </div>
             <p style="margin-top: 30px; color: #40484d; font-size: 12px;">
-              &mdash; L'équipe Candys Surfeuse
+              &mdash; L'équipe Candys
             </p>
           </div>
         `,

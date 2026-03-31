@@ -12,9 +12,9 @@ export default function MentionsLegalesPage() {
               Éditeur du site
             </h2>
             <p>
-              Le site candys-surfeuse.com est édité par Candys Surfeuse (en cours d&apos;immatriculation).<br />
+              Le site candys.com est édité par Candys (en cours d&apos;immatriculation).<br />
               Fondatrice : Candy Oliveira<br />
-              Email : contact@candys-surfeuse.com
+              Email : contact@candys.com
             </p>
           </section>
 
@@ -34,7 +34,7 @@ export default function MentionsLegalesPage() {
             </h2>
             <p>
               L&apos;ensemble du contenu de ce site (textes, images, logos, graphismes)
-              est la propriété exclusive de Candys Surfeuse, sauf mention contraire.
+              est la propriété exclusive de Candys, sauf mention contraire.
               Toute reproduction, même partielle, est interdite sans autorisation
               préalable.
             </p>
@@ -45,7 +45,7 @@ export default function MentionsLegalesPage() {
               Responsabilité
             </h2>
             <p>
-              Candys Surfeuse s&apos;efforce de fournir des informations aussi précises
+              Candys s&apos;efforce de fournir des informations aussi précises
               que possible. Toutefois, elle ne pourra être tenue responsable des
               omissions, des inexactitudes et des carences dans la mise à jour.
             </p>
