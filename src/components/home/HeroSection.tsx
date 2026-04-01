@@ -7,15 +7,15 @@ export default function HeroSection() {
     <section className="relative h-screen w-full overflow-hidden">
       {/* Background image */}
       <Image
-        src="https://images.unsplash.com/photo-1502680390548-bdbac40e4a9f?w=1920&q=80"
-        alt="Femme sur la plage au coucher du soleil"
+        src="/images/hero-principal.png"
+        alt="Candys — collection été"
         fill
-        className="object-cover"
         priority
         sizes="100vw"
+        className="object-cover object-center"
       />
       {/* Gradient overlay */}
-      <div className="absolute inset-0 bg-gradient-to-t from-[#1e1b15]/40 via-[#1e1b15]/20 to-transparent" />
+      <div className="absolute inset-0 bg-gradient-to-r from-[#1e1b15]/20 to-transparent" />
 
       {/* Content */}
       <div className="relative flex h-full items-end pb-24 px-4 sm:px-6 lg:px-8">

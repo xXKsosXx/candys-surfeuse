@@ -8,13 +8,13 @@ export default function BrandStory() {
       <div className="mx-auto max-w-7xl">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-10 items-center">
           {/* Image */}
-          <div className="relative aspect-[4/5] overflow-hidden rounded-xl">
+          <div className="relative w-full overflow-hidden rounded-xl min-h-[500px]">
             <Image
-              src="https://images.unsplash.com/photo-1506953823976-52e1fdc0149a?w=800&h=1000&fit=crop&q=80"
+              src="/images/hero-story.png"
               alt="Candy Oliveira — Fondatrice de Candys"
               fill
-              className="object-cover"
-              sizes="(max-width: 768px) 100vw, 50vw"
+              className="object-cover object-center"
+              sizes="(max-width: 1024px) 100vw, 50vw"
             />
           </div>
 
