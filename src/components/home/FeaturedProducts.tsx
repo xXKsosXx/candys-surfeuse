@@ -10,7 +10,7 @@ const PLACEHOLDER_PRODUCTS = [
     slug: { current: "bikini-sol-cevennes" },
     price: 69,
     isNew: true,
-    image: "https://images.unsplash.com/photo-1564859228273-274232fdb516?w=600&h=800&fit=crop&q=80",
+    image: "/images/hero-maillot-de-bain.png",
   },
   {
     _id: "2",
@@ -18,7 +18,7 @@ const PLACEHOLDER_PRODUCTS = [
     slug: { current: "maillot-une-piece-vague" },
     price: 89,
     isNew: true,
-    image: "https://images.unsplash.com/photo-1570976447640-ac859083963f?w=600&h=800&fit=crop&q=80",
+    image: "/images/hero-principal.png",
   },
   {
     _id: "3",
@@ -26,7 +26,7 @@ const PLACEHOLDER_PRODUCTS = [
     slug: { current: "combinaison-surf-coral" },
     price: 189,
     isNew: false,
-    image: "https://images.unsplash.com/photo-1601758003122-53c40e686a19?w=600&h=800&fit=crop&q=80",
+    image: "/images/hero-combinaison.png",
   },
   {
     _id: "4",
@@ -34,7 +34,7 @@ const PLACEHOLDER_PRODUCTS = [
     slug: { current: "crop-top-anti-uv-soleil" },
     price: 45,
     isNew: false,
-    image: "https://images.unsplash.com/photo-1523359346063-d879354c0ea5?w=600&h=800&fit=crop&q=80",
+    image: "/images/hero-vetements.png",
   },
 ];
 

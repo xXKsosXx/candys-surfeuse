@@ -22,7 +22,7 @@ const ALL_PRODUCTS = [
     category: "maillots-de-bain",
     price: 69,
     isNew: true,
-    image: "https://images.unsplash.com/photo-1564859228273-274232fdb516?w=600&h=800&fit=crop&q=80",
+    image: "/images/hero-maillot-de-bain.png",
   },
   {
     _id: "2",
@@ -31,7 +31,7 @@ const ALL_PRODUCTS = [
     category: "maillots-de-bain",
     price: 89,
     isNew: true,
-    image: "https://images.unsplash.com/photo-1570976447640-ac859083963f?w=600&h=800&fit=crop&q=80",
+    image: "/images/hero-principal.png",
   },
   {
     _id: "3",
@@ -40,7 +40,7 @@ const ALL_PRODUCTS = [
     category: "combinaisons",
     price: 189,
     isNew: false,
-    image: "https://images.unsplash.com/photo-1601758003122-53c40e686a19?w=600&h=800&fit=crop&q=80",
+    image: "/images/hero-combinaison.png",
   },
   {
     _id: "4",
@@ -49,7 +49,7 @@ const ALL_PRODUCTS = [
     category: "ete",
     price: 45,
     isNew: false,
-    image: "https://images.unsplash.com/photo-1523359346063-d879354c0ea5?w=600&h=800&fit=crop&q=80",
+    image: "/images/hero-vetements.png",
   },
   {
     _id: "5",
@@ -58,7 +58,7 @@ const ALL_PRODUCTS = [
     category: "ete",
     price: 75,
     isNew: false,
-    image: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&h=800&fit=crop&q=80",
+    image: "/images/hero-vetements.png",
   },
   {
     _id: "6",
@@ -67,7 +67,7 @@ const ALL_PRODUCTS = [
     category: "combinaisons",
     price: 149,
     isNew: false,
-    image: "https://images.unsplash.com/photo-1502680390548-bdbac40e4a9f?w=600&h=800&fit=crop&q=80",
+    image: "/images/hero-combinaison.png",
   },
 ];
 

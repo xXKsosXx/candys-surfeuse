@@ -27,8 +27,8 @@ const PRODUCTS: Record<string, {
     isNew: true,
     description: "Bikini deux pièces inspiré des plages cévenoles. Tissu recyclé, résistant au chlore et à l'eau salée. Coupe flatteuse et maintien parfait pour le surf.",
     images: [
-      "https://images.unsplash.com/photo-1564859228273-274232fdb516?w=800&h=1000&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1570976447640-ac859083963f?w=800&h=1000&fit=crop&q=80",
+      "/images/hero-maillot-de-bain.png",
+      "/images/hero-principal.png",
     ],
     stripePriceId: "price_test_bikini",
   },
@@ -41,7 +41,7 @@ const PRODUCTS: Record<string, {
     isNew: true,
     description: "Maillot une pièce avec décolleté plongeant et dos nageur. Tissu UPF 50+ avec compression douce. Parfait pour les sessions longues.",
     images: [
-      "https://images.unsplash.com/photo-1570976447640-ac859083963f?w=800&h=1000&fit=crop&q=80",
+      "/images/hero-principal.png",
     ],
     stripePriceId: "price_test_maillot",
   },
@@ -54,7 +54,7 @@ const PRODUCTS: Record<string, {
     isNew: false,
     description: "Combinaison intégrale 3/2mm en néoprène japonais Yamamoto. Coutures scellées, fermeture poitrine. Coloris coral exclusif.",
     images: [
-      "https://images.unsplash.com/photo-1601758003122-53c40e686a19?w=800&h=1000&fit=crop&q=80",
+      "/images/hero-combinaison.png",
     ],
     stripePriceId: "price_test_combi",
   },
@@ -67,7 +67,7 @@ const PRODUCTS: Record<string, {
     isNew: false,
     description: "Crop top léger avec protection UPF 50+. Tissu technique respirant qui sèche en 20 minutes. Idéal pour le beach-volley et le paddle.",
     images: [
-      "https://images.unsplash.com/photo-1523359346063-d879354c0ea5?w=800&h=1000&fit=crop&q=80",
+      "/images/hero-vetements.png",
     ],
     stripePriceId: "price_test_crop",
   },
@@ -80,7 +80,7 @@ const PRODUCTS: Record<string, {
     isNew: false,
     description: "Boardshort mi-cuisse avec taille élastique et cordon. Poches latérales zippées. Tissu stretch recyclé à séchage rapide.",
     images: [
-      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&h=1000&fit=crop&q=80",
+      "/images/hero-vetements.png",
     ],
     stripePriceId: "price_test_board",
   },
@@ -93,7 +93,7 @@ const PRODUCTS: Record<string, {
     isNew: false,
     description: "Combinaison shorty 2mm bras courts/jambes courtes. Néoprène souple avec dos zip. Parfaite pour les eaux entre 18°C et 22°C.",
     images: [
-      "https://images.unsplash.com/photo-1502680390548-bdbac40e4a9f?w=800&h=1000&fit=crop&q=80",
+      "/images/hero-combinaison.png",
     ],
     stripePriceId: "price_test_shorty",
   },
